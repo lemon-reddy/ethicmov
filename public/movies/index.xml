@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on My New Hugo Site</title>
+    <link>http://example.org/movies/</link>
+    <description>Recent content in Movies on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2023 10:02:14 +0530</lastBuildDate><atom:link href="http://example.org/movies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malli_raava</title>
+      <link>http://example.org/movies/telugu/malli_raava/</link>
+      <pubDate>Tue, 11 Apr 2023 10:02:14 +0530</pubDate>
+      
+      <guid>http://example.org/movies/telugu/malli_raava/</guid>
+      <description>Introduction Director has done a fantastic job. </description>
+    </item>
+    
+  </channel>
+</rss>
