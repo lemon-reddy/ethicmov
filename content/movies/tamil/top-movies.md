@@ -39,6 +39,7 @@ Most of the tamil movies are made around village backgrounds with regional issue
 4. Kannathil Muthamittal
 5. 7G Rainbow Colony
 6. Aandavan Kattalai
+7. Boys
 
 ## Action
 
@@ -82,8 +83,8 @@ Most of the tamil movies are made around village backgrounds with regional issue
 2. Kaakkaa Muttai
 3. Jigarthanda
 4. Maanaadu
-5. Boys
-6. Naduvula Konjam Pakkatha Kaanom
+5. Naduvula Konjam Pakkatha Kaanom
+6. Love Today(2022)
 
 ## Horror
 
