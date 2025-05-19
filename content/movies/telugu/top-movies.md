@@ -59,6 +59,8 @@ Here are top movies that I found interesting in no particular order:
 28. Sontham
 29. Keeda Cola
 30. Samajavaragamana
+31. Ala Ela
+32. Ami Thumi
 
 ## Thriller / Drama
 
@@ -96,6 +98,9 @@ Here are top movies that I found interesting in no particular order:
 11. Aadavari Matalaku Arthale Verule
 12. Mallesham
 13. Neninthe
+14. Anaganaga
+15. Veeranjaneyulu Vihara Yatra
+16. Committee Kurrolu
 
 ## Action
 
@@ -114,3 +119,8 @@ Here are top movies that I found interesting in no particular order:
 3. Prasthanam
 4. Republic
 5. Yuvasena
+6. Court: State vs A Nobody
+
+## Horror
+
+1. Masooda

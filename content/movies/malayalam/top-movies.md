@@ -26,13 +26,23 @@ I like malayalam movies the most because of their simplicity and relatable stori
 16. Maayanadhi
 17. Kappela
 18. Driving License
+19. Rekhachitram
+20. Anweshippin Kandethum
+21. Iratta
+22. Joseph
+23. Ela Veezha Poonchira
+24. Kooman
+25. Sookshmadarshini
 
 ## Social Drama
 
 1. The Great Indian Kitchen
-2. Jaya jaya jaya jaya hey
-3. Njan Prakashan
-4. Ishq
+2. Aattam
+3. Jaya jaya jaya jaya hey
+4. Njan Prakashan
+5. Ishq
+6. Vikrithi
+7. Kaathal - The Core
 
 ## Comedy
 
@@ -43,12 +53,18 @@ I like malayalam movies the most because of their simplicity and relatable stori
 5. Thanneermathan Dinangal
 6. Neram
 7. Romancham
+8. BroDaddy
+9. Aavesham
+10. JanEMan
+11. Unda
+12. North 24 Kaatham
 
 ## Romance
 
 1. Premam
 2. Hridayam
 3. Ohm Shanti Oshana
+4. Sunday Holiday
 
 ## Action
 
@@ -59,21 +75,26 @@ I like malayalam movies the most because of their simplicity and relatable stori
 5. Angamaly Dairies
 6. Lucifer
 7. Varathan
-8. RDX
+8. Kannur Squad
 
 ## Drama
 
 1. #HOME
-2. Kumbalangi Nights
-3. Bangalore Days
-4. Traffic
-5. Guppy
-6. Pathemari
-7. Ustaad Hotel
-8. Charlie
-9. Uyare
-10. Nna, Thaan Case Kodu
-11. Saudi Vellakka
-12. Joji
-13. C U Soon
-14. Jacobinte Swarajyam
+2. Mukundan Unni Associates
+3. Kumbalangi Nights
+4. Bangalore Days
+5. Traffic
+6. Guppy
+7. Pathemari
+8. Ustaad Hotel
+9. Charlie
+10. Uyare
+11. Nna, Thaan Case Kodu
+12. Saudi Vellakka
+13. Joji
+14. C U Soon
+15. Jacobinte Swarajyam
+16. Ponman
+17. Bheeshma Parvam
+18. Manjummel Boys
+19. Kishkinda Kaandam

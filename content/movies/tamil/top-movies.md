@@ -18,8 +18,11 @@ Most of the tamil movies are made around village backgrounds with regional issue
 8. Viduthalai: Part 1
 9. Anbe Sivam
 10. Kattradhu Thamizh
+11. Meiyazhagan
+12. Aaranya Kandam
+13. Ayothi
 
-## Romance
+## Love Story/Romance
 
 1. 96
 2. Alaipayuthey
@@ -30,6 +33,9 @@ Most of the tamil movies are made around village backgrounds with regional issue
 7. OK Kanmani
 8. Thulladha Manamum Thullum
 9. Kadhalum Kadandhu Pogum
+10. Amaran
+11. Irugapatru
+12. Mozhi
 
 ## Drama
 
@@ -40,6 +46,8 @@ Most of the tamil movies are made around village backgrounds with regional issue
 5. 7G Rainbow Colony
 6. Aandavan Kattalai
 7. Boys
+8. Lubber Pandhu
+9. Parking
 
 ## Action
 
@@ -61,6 +69,8 @@ Most of the tamil movies are made around village backgrounds with regional issue
 16. Mahaan
 17. Dasavatharam
 18. Yennai Arindhaal
+19. Maaveeran
+20. Mark Antony
 
 ## Thriller
 
@@ -76,18 +86,26 @@ Most of the tamil movies are made around village backgrounds with regional issue
 10. Kannum Kannum Kollaiyadithaal
 11. Imaikkaa Nodigal
 12. Thadam
+13. Indru Netru Naalai
+14. Sathuraanga Vettai
+15. Maharaja
+16. Onaayum Aattukkuttiyum
 
 ## Comedy
 
 1. Soodhu Kavvum
-2. Kaakkaa Muttai
-3. Jigarthanda
-4. Maanaadu
-5. Naduvula Konjam Pakkatha Kaanom
-6. Love Today(2022)
+2. Panchatanthiram
+3. Kaakkaa Muttai
+4. Jigarthanda
+5. Maanaadu
+6. Naduvula Konjam Pakkatha Kaanom
+7. Love Today(2022)
+8. Mundasupatti
+9. Boss Engira Bhaskaran
 
 ## Horror
 
 1. Demonte Colony
 2. Maya
 3. Pizza
+4. Andhakaaram
