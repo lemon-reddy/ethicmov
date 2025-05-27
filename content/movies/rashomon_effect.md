@@ -1,8 +1,8 @@
-+++
+<!-- +++
 title = 'Movies with rashomon effect in India'
 date = 2025-05-26T13:24:39+05:30
 draft = false
-+++
++++ -->
 
 Roshomon effect describes how multiple individuals recount the same incident in different ways. Many Indian directors explored this concept in their films. As it suggests, these are mostly drama/thriller movies, where the movie keeps audience guessing. Without sufficient evidence, the truth would never come out unless the director decides to reveal it. Following are the movies, in which I personally find this explored.
 
