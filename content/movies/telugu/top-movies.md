@@ -4,6 +4,7 @@ date = 2024-04-09T13:24:39+05:30
 draft = false
 +++
 
+Telugu people are the most movie going in the entire country. Movies are deeply ingrained in the culture and it's hard to find people who isn't interested. I still remember seeing interviews of top ranked individuals in Civils, JEE mentioning about their love and admiration towards movies. This love towards movies is inspiring and motivating for the filmmakers to give the best possible experience. It's always guaranteed that good movie that connects with audience recovers its expenses. Many actors from other south indian industries love the industry for the very same reason. Telugu region contains most number of theatres in the country helping this ecosystem.
 Here are top movies that I found interesting in no particular order:
 
 ## Romance / Drama
