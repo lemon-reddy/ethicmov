@@ -12,14 +12,14 @@ I am not a critic and not aspiring to be one. These are my opinions and solely r
 
 ## Browse by Language
 
-- [Telugu Movies](/movies/telugu/top-movies/)
-- [Tamil Movies](/movies/tamil/top-movies/)
-- [Malayalam Movies](/movies/malayalam/top-movies/)
-- [Kannada Movies](/movies/kannada/top-movies/)
-- [Hindi Movies](/movies/hindi/top-movies/)
+- [Telugu Movies](/ethicmov/movies/telugu/top-movies/)
+- [Tamil Movies](/ethicmov/movies/tamil/top-movies/)
+- [Malayalam Movies](/ethicmov/movies/malayalam/top-movies/)
+- [Kannada Movies](/ethicmov/movies/kannada/top-movies/)
+- [Hindi Movies](/ethicmov/movies/hindi/top-movies/)
 
 ## Genres
 
-- [Romance Movies](/movies/romance/)
-- [Hyperlinked Movies](/movies/hyperlinked/)
-- [Rashomon Effect Movies](/movies/rashomon)
+- [Romance Movies](/ethicmov/movies/romance/)
+- [Hyperlinked Movies](/ethicmov/movies/hyperlinked/)
+- [Rashomon Effect Movies](/ethicmov/movies/rashomon)
