@@ -11,22 +11,35 @@ Here are top movies that I found interesting in no particular order:
 
 1. Malli Raava
 2. Sammohanam
-3. Jersey
-4. Chi La Sow
-5. Dollar Dreams
-6. Malli Malli Idhi Rani Roju
-7. Miss Shetty Mr Polishetty
-8. Sita Ramam
-9. Anand
-10. Colour photo
-11. Godavari
-12. Ye Maaya Chesave
-13. Yeto Vellipoyindi Manasu
+3. Chi La Sow
+4. Oohalu Gusagusalade
+5. Miss Shetty Mr Polishetty
+6. Sita Ramam
+7. Anand
+8. Godavari
+9. Colour Photo
+10. Ye Maaya Chesave
+11. Nuvvostanante Nenoddantana
+12. Yeto Vellipoyindi Manasu
+13. Malli Malli Idhi Rani Roju
 14. Ninnu Kori
 15. Most Eligible Bachelor
-16. Mental Madhilo
-17. Bommarillu
-18. Anandam
+16. Bommarillu
+17. Anandam
+18. LBW (Life Before Wedding)
+19. Ante Sundaraniki
+20. Hi Nanna
+21. Manmadhudu
+22. Tholi Prema(1998)
+23. Khushi(2001)
+24. Geetha Govindam
+25. Fidaa
+26. Darling
+27. Tholiprema(2018)
+28. Mr. Perfect
+29. Brindavanam
+30. Parugu
+31. Happy
 
 ## Comedy / Drama
 
@@ -37,91 +50,178 @@ Here are top movies that I found interesting in no particular order:
 5. Life is beautiful
 6. Love Today
 7. Pilla Zamindar
-8. Raja raja chora
-9. Ala Modalaindi
-10. Ishq
-11. Krishna Gaadi Veera Prema Gaadha
-12. Vennela
-13. Maryada Ramanna
-14. DJ Tillu
-15. Khaleja
-16. Prema Katha Chitram
-17. Ullasanga Utsahanga
-18. Oohalu Gusagusalade
-19. Manmadhudu
-20. Raja Rani
-21. Ashta Chamma
-22. Oopiri
-23. Bhale Bhale Magadivoy
-24. Dhee
-25. Venky
-26. Santhosham
-27. Darling
-28. Sontham
-29. Keeda Cola
-30. Samajavaragamana
-31. Ala Ela
-32. Ami Thumi
+8. Ala Modalaindi
+9. MAD
+10. Kick
+11. Ishq
+12. Krishna Gaadi Veera Prema Gaadha
+13. Vennela
+14. Maryada Ramanna
+15. DJ Tillu
+16. Khaleja
+17. Prema Katha Chitram
+18. Ullasanga Utsahanga
+19. Raja Rani
+20. Ashta Chamma
+21. Malliswari
+22. Little Hearts
+23. The Great Pre-wedding Show
+24. Oopiri
+25. Bhale Bhale Magadivoy
+26. Dhee
+27. Venky
+28. Santhosham
+29. Darling
+30. Sontham
+31. King
+32. Keeda Cola
+33. Samajavaragamana
+34. Ala Ela
+35. Ami Thumi
+36. Chal Mohan Ranga
+37. Tillu Square
+38. Nani's Gang Leader
+39. Jathi Ratnalu
+40. Keedaa Cola
+41. Jalsa
+
+### Pop culture comedy
+
+1. Happy Birthday
+2. #Single
+3. Mathu Vadalara 2
 
 ## Thriller / Drama
 
 1. Aithe
-2. Yevade Subramanyam
-3. Mathuvadalara
-4. Brochevarevarura
-5. Agent Sai Srinivas Athreya
-6. Gamyam
-7. Vedam
-8. Aa Naluguru
-9. Anukokunda oka roju
-10. Awe!
-11. Swamy RaRa
-12. Karthikeya
-13. Okkadunnadu
-14. Goodachari
-15. Kshanam
-16. Evaru
-17. Nani's Gentleman
-18. Run Raja Run
+2. Mathuvadalara
+3. Brochevarevarura
+4. Agent Sai Srinivas Athreya
+5. Hit: The First Case
+6. Hit: The Second Case
+7. Gamyam
+8. Vedam
+9. Aa Naluguru
+10. Anukokunda oka roju
+11. Nandanavanam 120km
+12. Awe!
+13. Swamy RaRa
+14. Karthikeya
+15. Okkadunnadu
+16. Goodachari
+17. Kshanam
+18. Evaru
+19. Nani's Gentleman
+20. Run Raja Run
+21. KA
+22. Hello
 
 ## Drama
 
-1. Mr Perfect
-2. C/O Kancherapalem
-3. Chitralahari
-4. Julayi
-5. Chiru Navvutho
-6. Avakai Biryani
-7. Naa Autograph
-8. Nagaram
-9. 7G Brindavan Colony
-10. Nuvve Nuvve
-11. Aadavari Matalaku Arthale Verule
-12. Mallesham
+1. Lucky Bhaskar
+2. Jersey
+3. Mr Perfect
+4. C/O Kancherapalem
+5. Chitralahari
+6. Manam
+7. Chiru Navvutho
+8. Naa Autograph
+9. Nagaram
+10. 7G Brindavan Colony
+11. Nuvve Nuvve
+12. Aadavari Matalaku Arthale Verule
 13. Neninthe
-14. Anaganaga
-15. Veeranjaneyulu Vihara Yatra
-16. Committee Kurrolu
+14. Seethamma Vakitlo Sirimalle Chettu
+15. Murari
+16. Ala Vaikunthapurramlo
 
-## Action
+## Biography
+
+1. Major
+2. Mallesham
+3. Mahanati
+
+#### Adaptation
+
+1. Rakhta Charitra
+2. Ghazi
+
+## Science Fiction / Mythology
+
+1. Oke Oka Jeevitham
+2. Kalki 2898 AD
+3. Hanu Man
+
+## Action / Commercial Movies
 
 1. Kanche
-2. Yuganiki okkadu
-3. Sahasam
-4. Athadu
-5. Okkadu
-6. Sye
-7. Vikramarkudu
+2. Eega
+3. Pokiri
+4. Julayi
+5. Chatrapathi
+6. Dookudu
+7. Temper
+8. Race Gurram
+9. Sahasam
+10. Athadu
+11. Okkadu
+12. Mirchi
+13. Simhadri
+14. Aravinda Sametha Veera Raghava
+15. Attarintiki Daredi
+16. Sye
+17. Vikramarkudu
+18. 1: Nenokkadine
+19. Tagore
+20. Thammudu(1999)
+21. Indra
+22. Stalin
+23. Businessman
+24. S/O Satyamurthy
+
+### Periodic / Drama
+
+1. RRR
+2. Baahubali(1 & 2)
+3. Rangasthalam
+4. Yuganiki okkadu
+5. Magadheera
+6. Shyam Singha Roy
 
 ## Social Drama
 
 1. Leader
 2. Naandhi
-3. Prasthanam
-4. Republic
-5. Yuvasena
-6. Court: State vs A Nobody
+3. Yevade Subramanyam
+4. Dollar Dreams
+5. 35 Chinna Katha Kaadhu
+6. Mental Madhilo
+7. Balagam
+8. Court: State vs A Nobody
+9. Andari Bandhuvaya
+10. Raja raja chora
+11. Committee Kurrolu
+12. Anaganaga
+13. Avakai Biryani
+14. The Girlfriend
+15. Sir(2023)
+
+#### Bob Verse
+
+1. Srimanthudu
+2. Bharath Ane Nenu
+3. Maharshi
+
+### Political Drama
+
+1. Prasthanam
+2. Republic
+3. Yuvasena
 
 ## Horror
 
 1. Masooda
+2. Kishkindapuri
+3. Arundathi
+4. Virupaksha
+5. Zombie Reddy
