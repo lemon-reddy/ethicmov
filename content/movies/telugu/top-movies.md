@@ -97,24 +97,28 @@ Here are top movies that I found interesting in no particular order:
 2. Mathuvadalara
 3. Brochevarevarura
 4. Agent Sai Srinivas Athreya
-5. Hit: The First Case
-6. Hit: The Second Case
-7. Gamyam
-8. Vedam
-9. Aa Naluguru
-10. Anukokunda oka roju
-11. Nandanavanam 120km
-12. Awe!
-13. Swamy RaRa
-14. Karthikeya
-15. Okkadunnadu
-16. Goodachari
-17. Kshanam
-18. Evaru
-19. Nani's Gentleman
-20. Run Raja Run
-21. KA
-22. Hello
+5. Gamyam
+6. Vedam
+7. Aa Naluguru
+8. Anukokunda oka roju
+9. Nandanavanam 120km
+10. Awe!
+11. Swamy RaRa
+12. Karthikeya
+13. Okkadunnadu
+14. Evaru
+15. Nani's Gentleman
+16. Run Raja Run
+17. KA
+18. Hello
+
+#### Cop movies
+
+1. Vikramarkudu
+2. Hit: The First Case
+3. Hit: The Second Case
+4. Goodachari
+5. Kshanam
 
 ## Drama
 
@@ -170,16 +174,15 @@ Here are top movies that I found interesting in no particular order:
 14. Aravinda Sametha Veera Raghava
 15. Attarintiki Daredi
 16. Sye
-17. Vikramarkudu
-18. 1: Nenokkadine
-19. Tagore
-20. Thammudu(1999)
-21. Indra
-22. Stalin
-23. Businessman
-24. S/O Satyamurthy
+17. 1: Nenokkadine
+18. Tagore
+19. Thammudu(1999)
+20. Indra
+21. Stalin
+22. Businessman
+23. S/O Satyamurthy
 
-### Periodic / Drama
+#### Periodic / Drama
 
 1. RRR
 2. Baahubali(1 & 2)
@@ -199,7 +202,7 @@ Here are top movies that I found interesting in no particular order:
 7. Balagam
 8. Court: State vs A Nobody
 9. Andari Bandhuvaya
-10. Raja raja chora
+10. Raja Raja Chora
 11. Committee Kurrolu
 12. Anaganaga
 13. Avakai Biryani
