@@ -11,53 +11,63 @@ I like malayalam movies the most because of their simplicity and relatable stori
 1. 2018
 2. Drishyam
 3. Drishyam 2
-4. Jana Gana Mana
-5. Maheshinte Prathikaram
-6. Thondi Muthalum Driksakshiyum
-7. Operation Java
-8. Nayattu
-9. Take Off
-10. Memories
-11. Anjaam Pathiraa
-12. Mumbai Police
-13. Helen
-14. Virus
-15. Neelakasham Pachakadal Chuvanna Bhoomi
-16. Maayanadhi
-17. Kappela
-18. Driving License
-19. Rekhachitram
-20. Anweshippin Kandethum
-21. Iratta
-22. Joseph
-23. Ela Veezha Poonchira
-24. Kooman
-25. Sookshmadarshini
+4. Eko
+5. Jana Gana Mana
+6. Maheshinte Prathikaram
+
+7. Take Off
+8. Memories
+9. Anjaam Pathiraa
+10. Mumbai Police
+11. Helen
+12. Virus
+13. Neelakasham Pachakadal Chuvanna Bhoomi
+14. Kappela
+15. Driving License
+16. Kooman
+
+#### Detective Thrillers
+
+1. Sookshmadarshini
+2. Kishkinda Kaandam
+3. Iratta
+4. Rekhachitram
+5. Anweshippin Kandethum
+
+#### Shahi Kabir movies
+
+1. Ronth
+2. Ela Veezha Poonchira
+3. Joseph
+4. Nayattu
 
 ## Social Drama
 
 1. The Great Indian Kitchen
 2. Aattam
-3. Jaya jaya jaya jaya hey
+3. Jaya Jaya Jaya Jaya Hey
 4. Njan Prakashan
 5. Ishq
 6. Vikrithi
 7. Kaathal - The Core
+8. Ponman
 
 ## Comedy
 
 1. Premalu
 2. Sudani from Nigeria
 3. Android Kunjappan Version 5.25
-4. Minnal Murali
-5. Thanneermathan Dinangal
-6. Neram
-7. Romancham
-8. BroDaddy
-9. Aavesham
-10. JanEMan
-11. Unda
-12. North 24 Kaatham
+4. Thanneermathan Dinangal
+5. Neram
+6. Romancham
+7. BroDaddy
+8. Aavesham
+9. JanEMan
+10. Unda
+11. North 24 Kaatham
+12. Alappuzha Gymkhana
+13. Padakkalam
+14. Vellimoonga
 
 ## Romance
 
@@ -65,6 +75,9 @@ I like malayalam movies the most because of their simplicity and relatable stori
 2. Hridayam
 3. Ohm Shanti Oshana
 4. Sunday Holiday
+5. Amen
+6. Maayanadhi
+7. Salt N'Pepper
 
 ## Action
 
@@ -75,7 +88,14 @@ I like malayalam movies the most because of their simplicity and relatable stori
 5. Angamaly Dairies
 6. Lucifer
 7. Varathan
-8. Kannur Squad
+8. Thudarum
+
+#### Cop movies
+
+1. Action Hero Biju
+2. Kannur Squad
+3. Thondi Muthalum Driksakshiyum
+4. Operation Java
 
 ## Drama
 
@@ -87,7 +107,7 @@ I like malayalam movies the most because of their simplicity and relatable stori
 6. Traffic
 7. Guppy
 8. Pathemari
-9. Ustaad Hotel
+9. Ustad Hotel
 10. Charlie
 11. Uyare
 12. Nna, Thaan Case Kodu
@@ -95,7 +115,19 @@ I like malayalam movies the most because of their simplicity and relatable stori
 14. Joji
 15. C U Soon
 16. Jacobinte Swarajyam
-17. Ponman
-18. Bheeshma Parvam
-19. Manjummel Boys
-20. Kishkinda Kaandam
+17. Bheeshma Parvam
+18. Manjummel Boys
+19. Neru
+
+#### Medical
+
+1. Ayalum Njanum Thammil
+
+#### Sports
+
+1. Godha
+
+#### Superhero
+
+1. Lokah Chapter 1: Chandra
+2. Minnal Murali
