@@ -4,13 +4,13 @@ date = 2025-12-30
 draft = false
 +++
 
-Most of the bollywood is dominated by people from Punjab, West Bengal and Maharashtra. And these cultures are reflected in the movies. Bengal origin directors usually make thought provoking movies that deal with human psychology. Punjabi origin directors usually have rich backdrops. Directors from UP, Bihar origin deal with raw themes. It's the biggest cinema industry and have covered all the genres but received a lot of criticism for half baked stories and less talented actors. South Indian movies(more specifically Telugu) started gaining more traction because of better stories and actors.
+Most of Bollywood is dominated by people from Punjab, West Bengal and Maharashtra. And these cultures are reflected in the movies. Directors of Bengal origin usually make thought-provoking movies that deal with human psychology. Directors of Punjabi origin usually have rich backdrops. Directors from UP and Bihar deal with raw themes. It's the biggest cinema industry and has covered all the genres but received a lot of criticism for half-baked stories and less talented actors. South Indian movies (more specifically Telugu) started gaining more traction because of better stories and actors.
 
-List contains movies released after 2000.
+This list contains movies released after 2000.
 
 ## Romance / Drama
 
-I haven't come across simple, relatable, feel good love stories in bollywood. Bollywood has mostly dealt with either complex characters or complex relationships. While I do understand the reality of relationships, I am inclined towards happy endings as they inspire to live together.
+I haven't come across simple, relatable, feel-good love stories in Bollywood. Bollywood has mostly dealt with either complex characters or complex relationships. While I do understand the reality of relationships, I am inclined towards happy endings as they inspire us to live together.
 
 1. Kal Ho Naa Ho
 2. Veer-Zaara
@@ -208,7 +208,7 @@ If understood and thought through, these movies could bring a new perspective.
 12. The Kashmir Files
 13. Article 15
 14. Gangubai Kathiawadi
-15. Non One Killed Jessica
+15. No One Killed Jessica
 
 ## Action
 

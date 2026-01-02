@@ -4,7 +4,7 @@ date = 2025-05-27T13:24:39+05:30
 draft = false
 +++
 
-Much explored genre of Indian cinema. There are many stories which explore different ideologies and aspects of love. As it's a multi faceted emotion, with different people having different opinions on it. It's contracting in some ways too.
+A much-explored genre of Indian cinema. There are many stories which explore different ideologies and aspects of love. As it's a multifaceted emotion, with different people having different opinions on it. It's contradictory in some ways too.
 
 1. Malli Raava
 2. Chi La Sow

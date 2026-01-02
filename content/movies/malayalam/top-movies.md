@@ -4,7 +4,7 @@ date = 2024-04-09T19:42:32+05:30
 draft = false
 +++
 
-I like malayalam movies the most because of their simplicity and relatable stories. They are best story tellers and the production budget is minimal. Content drives the movie and actors have less reservation on the type of roles.
+I like Malayalam movies the most because of their simplicity and relatable stories. They are the best storytellers and the production budget is minimal. Content drives the movie and actors have less reservation about the type of roles.
 
 ## Thriller
 

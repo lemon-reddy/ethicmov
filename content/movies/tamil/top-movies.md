@@ -4,7 +4,7 @@ date = 2024-04-09T17:52:20+05:30
 draft = false
 +++
 
-Most of the tamil movies are made around village backgrounds with regional issues. Here are my top picks:
+Most Tamil movies are made around village backgrounds with regional issues. Here are my top picks:
 
 ## Social Drama/Thriller
 

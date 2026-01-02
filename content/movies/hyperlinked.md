@@ -4,7 +4,7 @@ date = 2025-05-26T22:24:39+05:30
 draft = false
 +++
 
-Movies with no actual relation between the characters but meet on crossroads at critical situations because of unforeseen circumstances. Usually, filled with subplots of characters and gradually connected to the final act.
+Movies with no actual relationship between the characters but they meet at crossroads in critical situations because of unforeseen circumstances. Usually, filled with subplots of characters and gradually connected to the final act.
 
 1. Maanagaram
 2. Express Raja
